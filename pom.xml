@@ -51,7 +51,7 @@
     <repositories>
         <repository>
             <id>Automated-Refactoring-Tool-Methods-Detection-Model</id>
-            <url>https://raw.github.com/zapahlevie/Automated-Refactoring-Tool-Methods-Detection-Model/mvn-repo/</url>
+            <url>https://raw.github.com/DufanD/Automated-Refactoring-Tool-Methods-Detection-Model/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
